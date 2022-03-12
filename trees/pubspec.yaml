@@ -1,0 +1,7 @@
+name: trees.dart
+dependencies:
+  js: ^0.6.0
+  intl: ^0.15.8
+
+dev_dependencies:
+  stack: ^0.0.1
